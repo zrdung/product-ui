@@ -5,7 +5,7 @@ const product_cart = [
         description: "Men's Golf Shoes",
         price: 350,
         currency: "$",
-        thumb: "../images/1.png"
+        thumb: "./images/1.png"
     },
     {
         id : 2, 
@@ -13,7 +13,7 @@ const product_cart = [
         description: "Men's Golf Shoes",
         price: 250,
         currency: "$",
-        thumb: "../images/1.png"
+        thumb: "./images/1.png"
     },
     {
         id : 3, 
@@ -21,7 +21,7 @@ const product_cart = [
         description: "Jordan 1 KO",
         price: 150,
         currency: "$",
-        thumb: "../images/1.png"
+        thumb: "./images/1.png"
     },
     {
         id : 4, 
@@ -29,7 +29,7 @@ const product_cart = [
         description: "Men's Golf Shoes",
         price: 350,
         currency: "$",
-        thumb: "../images/1.png"
+        thumb: "./images/1.png"
     },
     {
         id : 5, 
@@ -37,7 +37,7 @@ const product_cart = [
         description: "Men's Golf Shoes",
         price: 250,
         currency: "$",
-        thumb: "../images/1.png"
+        thumb: "./images/1.png"
     },
     {
         id : 6, 
@@ -45,7 +45,7 @@ const product_cart = [
         description: "Men's Golf Shoes",
         price: 150,
         currency: "$",
-        thumb: "../images/1.png"
+        thumb: "./images/1.png"
     },
     {
         id : 7, 
@@ -53,7 +53,7 @@ const product_cart = [
         description: "Men's Golf Shoes",
         price: 350,
         currency: "$",
-        thumb: "../images/1.png"
+        thumb: "./images/1.png"
     },
     {
         id : 8, 
@@ -61,7 +61,7 @@ const product_cart = [
         description: "Men's Golf Shoes",
         price: 250,
         currency: "$",
-        thumb: "../images/1.png"
+        thumb: "./images/1.png"
     },
     {
         id : 9, 
@@ -69,7 +69,7 @@ const product_cart = [
         description: "Men's Golf Shoes",
         price: 150,
         currency: "$",
-        thumb: "../images/1.png"
+        thumb: "./images/1.png"
     }
 ]
 
